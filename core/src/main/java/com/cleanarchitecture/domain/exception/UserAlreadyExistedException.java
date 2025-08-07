@@ -1,5 +1,5 @@
 /*
- *  UserNotFoundException
+ *  UserAlreadyExistedException
  *  @author: minhhieuano
  *  @created 8/7/2025 2:39 AM
  * */
