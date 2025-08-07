@@ -1,5 +1,5 @@
 /*
- *  UserController
+ *  AuthReaderController
  *  @author: minhhieuano
  *  @created 8/7/2025 3:10 AM
  * */
